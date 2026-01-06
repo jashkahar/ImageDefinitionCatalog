@@ -1,6 +1,6 @@
 $schema: 1.0
 name: project-sample-2
-image: microsoftwindowsdesktop_windows-xyz-abc
+image: xyz-abc
 tasks:
     - name: ~/powershell
       parameters:
