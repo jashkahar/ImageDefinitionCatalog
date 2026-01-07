@@ -1,6 +1,6 @@
 $schema: 1.0
-name: project-sample-2
-image: microsoftwindowsdesktop_windows-ent-cpc_win11-21h2-ent-cpc
+name: project-sample-2-vs22
+image: microsoftvisualstudio_visualstudioplustools_vs-2022-ent-general-win11-m365-gen2
 tasks:
     - name: ~/powershell
       parameters:
